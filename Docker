@@ -1,0 +1,5 @@
+docker images
+docker image ls
+docker container ls
+docker container ls -a
+sudo docker run hello-world 
